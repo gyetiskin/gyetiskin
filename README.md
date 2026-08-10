@@ -1,32 +1,10 @@
-## Gurur Yetişkin
+### Hello, this is Gurur Yetişkin 🔐
 
-Expert Lead at **BTCTurk** · Chapter Leader at **OWASP Manchester**
-Previously **Deloitte**, **ING Bank**, **Paribu**
+I'm a cybersecurity engineer working for **BTCTurk** as Expert Lead, and I run the **OWASP Manchester** chapter. Before that I spent years at Deloitte, ING Bank and Paribu — breaking things on purpose so that nobody else could. These days I spend most of my time where security, finance and AI overlap: LLM-assisted vulnerability analysis, momentum trading systems, and small tools that remove a daily annoyance. I love open source and I build things on my GitHub profile (here). I like Python, and I have a soft spot for Swift.
 
-Cybersecurity by trade, finance and AI by obsession. Most of what I build lives at
-the intersection of the three: security tooling that reasons, trading systems that
-behave, and small utilities that remove a daily annoyance.
+- 🌐 **Where I live on the web** ([gyetiskin.com](https://www.gyetiskin.com))
+- 💻 **What am I doing about open source?** (GitHub, you're already here)
+- 𝕏 **What do I think?** ([X](https://twitter.com/gy3tiskin))
+- 🏹 **Curriculum vitae, the path of my life** ([LinkedIn](https://linkedin.com/in/gyetiskin))
 
----
-
-### What I work on
-
-- **Application & offensive security** — Burp extensions, pentest automation, secure design reviews
-- **Algorithmic trading** — momentum strategies on IBKR, paper-trading labs, market data pipelines
-- **AI tooling** — LLM-assisted security analysis, MCP servers, developer productivity agents
-
-### Public work
-
-| Project | What it is |
-| --- | --- |
-| [claude-autoyes](https://github.com/gyetiskin/claude-autoyes) | Auto-approves routine Claude Code permission prompts in iTerm2 — destructive commands still stop and ask |
-| [howmanytokens](https://github.com/gyetiskin/howmanytokens) | macOS menu bar app showing Claude and Gemini usage allowance, from local files only |
-| [Web3-Challenges](https://github.com/gyetiskin/Web3-Challenges) | Solidity smart contract challenge solutions |
-
-### Tools
-
-`Python` · `TypeScript` · `Swift` · `Solidity` · `Burp Suite` · `Docker` · `IBKR API`
-
----
-
-📍 [gyetiskin.com](https://www.gyetiskin.com)
+Do not forget to view my open source projects below 👇🏻
