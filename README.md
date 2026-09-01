@@ -6,7 +6,4 @@ I'm an active member of the OWASP Manchester Chapter, and I rank among the all t
 
 Outside security, finance and AI fascinate me endlessly, and I follow both far more closely than a hobby would justify. I like Python, and I have a soft spot for Swift.
 
-- **Where I live on the web** ([gyetiskin.com](https://www.gyetiskin.com))
-- **What am I doing about open source?** (GitHub, you're already here)
-- **What do I think?** ([X](https://twitter.com/gy3tiskin))
-- **Curriculum vitae, the path of my life** ([LinkedIn](https://linkedin.com/in/gyetiskin))
+
